@@ -1,0 +1,115 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.banan {
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    background-image: url('./star.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: -100;
+}
+
+
+.pat {
+    background-color: black;
+    height: .8vw;
+    position: absolute;
+}
+
+#pat1 {
+    width: 21%;
+    top: 3%;
+    left: 16%;
+}
+
+#pat2 {
+    width: 12%;
+    top: 24%;
+    left: 16%;
+}
+
+#pat3 {
+    height: 45%;
+    width: .8vw;
+    left: 37%;
+    top: 3%;
+}
+
+#pat4 {
+    height: 45%;
+    width: .8vw;
+    left: 28%;
+    top: 24%;
+}
+
+#pat5 {
+    width: 10%;
+    top: 48%;
+    left: 37%;
+}
+
+#pat7 {
+    height: 35%;
+    width: .8vw;
+    left: 47%;
+    top: 14.6%;
+}
+
+#pat6 {
+    width: 66%;
+    top: 69%;
+    left: 28%;
+}
+
+#pat8 {
+    height: 35%;
+    width: .8vw;
+    left: 56%;
+    top: 35.6%;
+}
+
+#pat9 {
+    width: 18%;
+    top: 14.6%;
+    left: 47.8%;
+}
+
+#pat11 {
+    height: 35%;
+    width: .8vw;
+    left: 65.8%;
+    top: 14.6%;
+}
+
+#pat12 {
+    width: 19%;
+    top: 49.6%;
+    left: 65.8%;
+}
+
+#pat10 {
+    height: 36%;
+    width: .8vw;
+    left: 84.8%;
+    top: 15.3%;
+}
+
+#pat13 {
+    height: 55.1%;
+    width: .8vw;
+    left:94%;
+    top: 15.5%;
+}
+
+#finish{
+    width: 10vw;
+    position: absolute;
+    left: 84.8%;
+    top: 0.8vw;
+}
